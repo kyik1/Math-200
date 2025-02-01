@@ -1,4 +1,4 @@
-          Date,Day of th eweek,Amound,Description,Financial Goals/Saving,Method of Payment,Need/Want/Saving
+          Date,Day of theweek,Amount,Description,Financial Goals/Saving,Method of Payment,Need/Want/Saving
 1/17/2025,Friday ,65,Electricity,Food,Cash,Need
 1/17/2025,Friday ,7,Coffee,Food,Credit,Want
 1/17/2025,Friday ,10,Burger,Food,Credit,Want
@@ -9,7 +9,7 @@
 1/20/2025,Monday,45,Gas,Food,Credit,Need
 1/20/2025,Monday,24,Roasted Pork,Food,Cash,Want
 1/21/2025,Tuesday,7,Drink,Food,Credit,Want
-1/22/2025,Wednesday,78,less than Weekly target exspense,Less than weekly target expense,Cash,Savings
+1/22/2025,Wednesday,78,less than Weekly target exspense,Less than weekly target expense,Cash,Saving
 1/23/2025,Thursday,60,Oil change,Food,Cash,Need
 1/23/2025,Thursday,8.75,Canola oil,Food,Credit,Need
 1/23/2025,Thursday,5.5,Roasted chicken,Food,Credit,Need
