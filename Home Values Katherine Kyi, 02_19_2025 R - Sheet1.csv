@@ -1,13 +1,15 @@
-YEAR,Start_Year,Home_Value,source
-2016 ,0,198031,zillow
-2017,1,213955,zillow
-2018,2,234212,zillow
-2019,3,248494,zillow
-2020,4,268877,zillow
-2021,5,328195,zillow
-2022,6,390655,zillow
-2023,7,389544,zillow
-2024,8,395652,zillow
-2022,0,38500,Redfin
-2023,1,414500,Redfin
-2024,2,410500,Redfin
+YEAR,Start_Year,Home_Value,source,,"North Carolina , Durham City"
+2016,0,198031,zillow,,
+2017,1,213955,zillow,,
+2018,2,234212,zillow,,
+2019,3,248494,zillow,,
+2020,4,268877,zillow,,
+2021,5,328195,zillow,,
+2022,6,390655,zillow,,
+2023,7,389544,zillow,,
+2024,8,395652,zillow,,
+2022,6,385000,Redfin,,
+2023,7,414500,Redfin,,
+2024,8,410500,Redfin,,
+2020,4,295000,Redfin,,
+2021,5,369500,Redfin,,
